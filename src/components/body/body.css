@@ -11,7 +11,7 @@ h1 {
 }
 
 button {
-  size: 800px;
+  font-size: 300% !important;
   padding: 10px;
   margin: 50px !important;
   padding: 10px !important;
@@ -22,8 +22,8 @@ button {
 }
 
 .SOTOIcon {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
   border: 5 yellow;
 }
 

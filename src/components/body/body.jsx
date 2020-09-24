@@ -5,7 +5,7 @@ import SOTO from "../../assests/imags/soto.png";
 export default function Body() {
   return (
     <div className="container">
-      <h1 className="col"> SINS OF THE OCEAN</h1>
+      <h1 className="col"> SINS OF THE OCEANS</h1>
       <div className="col">
         {/* <iframe
             width="300"
