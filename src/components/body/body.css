@@ -6,11 +6,15 @@
 h1 {
   text-align: center;
   color: white;
+  font-family: Courier, Arial, Helvetica, sans-serif;
+  font-size: 300% !important;
 }
 
 button {
+  size: 800px;
   padding: 10px;
-  margin: 10px !important;
+  margin: 50px !important;
+  padding: 10px !important;
 }
 .div {
   /* position: relative; */

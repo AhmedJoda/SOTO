@@ -16,12 +16,12 @@ export default function Body() {
           /> */}{" "}
         <div className="preoder">
           <a href="https://www.youtube.com/embed/GJ825HreLJw">
-            <button className="btn btn-dark">Watch Trailer</button>
+            <button className="btn btn-dark btn-lg">Watch Trailer</button>
           </a>
 
           <img className="SOTOIcon " src={SOTO} alt="SOTO Icon" />
         </div>
-        <button className="btn btn-dark">Pre Order Now</button>
+        <button className="btn btn-dark btn-lg">Pre Order Now</button>
       </div>
     </div>
   );
