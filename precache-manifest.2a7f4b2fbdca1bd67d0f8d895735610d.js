@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "573685caac9249ea701395609db79d7f",
+    "revision": "123a78d1d8b5adabcacd86a6577be49e",
     "url": "/SOTO/index.html"
   },
   {
