@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  margin: auto;
+  padding: auto;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+button {
+  padding: 10px;
+  margin: 10px !important;
+}
+.div {
+  /* position: relative; */
+  text-align: center;
+}
+
+.SOTOIcon {
+  width: 25%;
+  height: 25%;
+  border: 5 yellow;
+}
+
+.row {
+  width: 100% !important;
+}
