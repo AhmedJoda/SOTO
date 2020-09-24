@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/soto/static/css/main.4cd2bd58.chunk.css",
+    "main.js": "/soto/static/js/main.b464212c.chunk.js",
+    "main.js.map": "/soto/static/js/main.b464212c.chunk.js.map",
+    "runtime-main.js": "/soto/static/js/runtime-main.b03ec50c.js",
+    "runtime-main.js.map": "/soto/static/js/runtime-main.b03ec50c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/soto/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.87c65f6f.chunk.js": "/soto/static/js/2.87c65f6f.chunk.js",
+    "static/js/2.87c65f6f.chunk.js.map": "/soto/static/js/2.87c65f6f.chunk.js.map",
+    "index.html": "/soto/index.html",
+    "precache-manifest.82610faedc959b5c53233c0ba886e412.js": "/soto/precache-manifest.82610faedc959b5c53233c0ba886e412.js",
+    "service-worker.js": "/soto/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/soto/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4cd2bd58.chunk.css.map": "/soto/static/css/main.4cd2bd58.chunk.css.map",
+    "static/js/2.87c65f6f.chunk.js.LICENSE.txt": "/soto/static/js/2.87c65f6f.chunk.js.LICENSE.txt",
+    "static/media/Layer1.png": "/soto/static/media/Layer1.0eac9069.png",
+    "static/media/App.css": "/soto/static/media/ocaen.88cc6818.jpg",
+    "static/media/soto.png": "/soto/static/media/soto.dfe7ff2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b03ec50c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.87c65f6f.chunk.js",
+    "static/css/main.4cd2bd58.chunk.css",
+    "static/js/main.b464212c.chunk.js"
+  ]
+}
